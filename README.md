@@ -63,6 +63,6 @@ npm run dev
 # 👨‍💻 Autores
 ## Desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas:
 
-### Tiago Farias - Engenharia de Backend & Integrações
+### [Tiago Farias](https://github.com/tiagohfarias) - Engenharia de Backend & Integrações
 
 ### Gabriel Borba - Engenharia de Frontend & UX/UI
