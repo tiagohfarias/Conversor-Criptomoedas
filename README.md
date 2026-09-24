@@ -34,12 +34,16 @@ O projeto está dividido em dois microsserviços principais:
 ```bash
 git clone [https://github.com/SEU_USUARIO/conversor-criptomoedas.git](https://github.com/SEU_USUARIO/conversor-criptomoedas.git)
 
+```
 
-2. Configurar o Backend
-Bash
+### 2. Configurar o Backend
+```Bash
 cd backend
 python -m venv venv
-# Ative o ambiente virtual (Windows: venv\Scripts\activate | Mac/Linux: source venv/bin/activate)
+```
+
+#### Ative o ambiente virtual (Windows: venv\Scripts\activate | Mac/Linux: source venv/bin/activate)
+```Bash
 pip install -r requirements.txt
 Crie um arquivo .env baseado no .env.example com suas credenciais.
 
@@ -47,17 +51,18 @@ Para rodar a API:
 
 Bash
 uvicorn main:app --reload
+```
 
-
-3. Configurar o Frontend
-Bash
+### 3. Configurar o Frontend
+```Bash
 cd frontend
 npm install
 npm run dev
+```
 
-👨‍💻 Autores
-Desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas:
+# 👨‍💻 Autores
+## Desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas:
 
-Tiago Farias - Engenharia de Backend & Integrações
+### Tiago Farias - Engenharia de Backend & Integrações
 
-Gabriel Borba - Engenharia de Frontend & UX/UI
+### Gabriel Borba - Engenharia de Frontend & UX/UI
