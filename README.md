@@ -65,4 +65,4 @@ npm run dev
 
 ### [Tiago Farias](https://github.com/tiagohfarias) - Engenharia de Backend & Integrações
 
-### Gabriel Borba - Engenharia de Frontend & UX/UI
+### [Gabriel Borba](https://github.com/gabrielrborba) - Engenharia de Frontend & UX/UI
